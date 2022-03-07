@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/PinkSylvie/Parstagram/blob/master/Parstagram%20walkthrough%20Part1.giff' />
+<img src='https://github.com/PinkSylvie/Parstagram/blob/master/Parstagram%20walkthrough%20Part1.gif' />
 
 
 ## Notes
