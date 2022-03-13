@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
+<img src='https://github.com/PinkSylvie/Parstagram/blob/master/Parstagram%20walkthrough%20Part2.gif' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
 
 
 ## Notes
